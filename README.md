@@ -9,3 +9,7 @@ Sophomore at NIT Kurukshetra pursuing Btech in ECE
 - 🌱 I’m currently learning Competitive programming, DSA, React,Node.js
 - 📫  Reach me: 12215051@nitkkr.ac.in
 -->
+Sophomore at NIT Kurukshetra pursuing Btech in ECE
+- 🔭 I’m currently working on Full Stack Web Development 
+- 🌱 I’m currently learning Competitive programming, DSA, React,Node.js
+- 📫  Reach me: 12215051@nitkkr.ac.in
